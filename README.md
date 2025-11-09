@@ -131,8 +131,7 @@ Use predefined buttons for common topics:
 
 ### Crisis Support
 Click the red crisis banner at the top for immediate access to:
-- National Suicide Prevention Lifeline: **988**
-- Crisis Text Line: Text **HOME** to **741741**
+- National Suicide Prevention Lifeline
 - International resources
 
 ---

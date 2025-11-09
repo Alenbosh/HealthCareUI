@@ -10,7 +10,7 @@
 
 **A compassionate AI chatbot designed to provide emotional support and crisis resources for mental health challenges**
 
-[Live Demo](#) • [Features](#features) • [Installation](#installation)
+<a href="#">Live Demo</a> • <a href="#features">Features</a> • <a href="#installation">Installation</a>
 
 </div>
 
@@ -24,7 +24,7 @@ MindCare is a responsive web-based AI chatbot specifically designed to support i
 
 ---
 
-### ✨ Features
+## ✨ Features
 
 ### 🎯 Core Functionality
 - **24/7 Availability** - Always accessible support when you need it

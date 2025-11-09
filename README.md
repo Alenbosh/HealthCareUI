@@ -199,16 +199,29 @@ We welcome contributions! Here's how you can help:
 
 ## 📚 Resources
 
-### Crisis Hotlines
-- **US**: 988 (Suicide & Crisis Lifeline)
-- **US**: 1-800-273-8255 (National Suicide Prevention Lifeline)
-- **Crisis Text Line**: Text HOME to 741741
-- **International**: [findahelpline.com](https://findahelpline.com)
+### 🆘 Crisis Hotlines (India)
 
-### Mental Health Organizations
-- [NAMI](https://nami.org) - National Alliance on Mental Illness
-- [Mental Health America](https://mhanational.org)
-- [Anxiety & Depression Association](https://adaa.org)
+| Service | Phone | Hours | Description |
+|--------|-------|-------|-------------|
+| **AASRA** | **+91 9820466726** | 24/7 | Suicide prevention & emotional support |
+| **Vandrevala Foundation** | **+91 9999 666 555** | 24/7 | Mental health crisis support |
+| **iCall (TISS)** | **+91 9152987821** | Mon–Sat, 10AM–8PM | Professional counseling (inclusive & confidential) |
+| **Fortis Stress Helpline** | **+91 8376804102** | 24/7 | Emotional wellness & counseling support |
+
+If you prefer online search for local help:
+**https://findahelpline.com**
+
+---
+
+### 🧠 Mental Health Organizations (India)
+
+| Organization | Focus | Website |
+|-------------|--------|---------|
+| **The Live Love Laugh Foundation** | Depression & Anxiety Awareness, Therapist Directories | https://thelivelovelaughfoundation.org |
+| **NIMHANS** | National Mental Health Institute & Helplines | https://nimhans.ac.in |
+| **Mpower** | Counseling & Clinical Mental Health Services | https://mpowerminds.com |
+| **Mann Talks** | Online Counseling and Mental Health Education | https://www.manntalks.org |
+| **Parivarthan (Bangalore)** | Phone & Online Counseling Services | https://parivarthan.org |
 
 ---
 
@@ -229,9 +242,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/mindcare-chatbot/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/mindcare-chatbot/discussions)
-- **Email**: your.email@example.com
+- **Email**: Alenbosh@google.com
 
 ---
 
@@ -241,7 +252,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **If you or someone you know is in crisis, please reach out for help immediately.**
 
-Made with 💙 by [Your Name](https://github.com/yourusername)
+Made with 💙 by [Alen](https://github.com/Alenbosh)
 
 **Star ⭐ this repo if you found it helpful!**
 

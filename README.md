@@ -75,7 +75,7 @@ MindCare is a responsive web-based AI chatbot specifically designed to support i
 
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/yourusername/mindcare-chatbot.git
+   git clone https://github.com/Alenbosh/HealthCareUi.git
    cd mindcare-chatbot
 ```
 

@@ -10,7 +10,7 @@
 
 **A compassionate AI chatbot designed to provide emotional support and crisis resources for mental health challenges**
 
-<a href="#">Live Demo</a> • <a href="#features">Features</a> • <a href="#installation">Installation</a>
+<a href="#">Live Demo</a> • <a href="#installation">Installation</a>
 
 </div>
 
